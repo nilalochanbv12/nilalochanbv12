@@ -79,7 +79,7 @@ Building scalable web applications, AI-powered solutions, and software that solv
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nilalochanbv&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nilalochanbv&theme=tokyo-night"/>
 
 </p>
 
