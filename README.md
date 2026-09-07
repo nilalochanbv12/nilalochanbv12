@@ -49,7 +49,78 @@ Building scalable web applications, AI-powered solutions, and software that solv
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,mysql,sqlite,git,github,vscode" />
+# 🛠️ Tech Stack
+
+<p align="center">
+
+  <a href="https://www.java.com/" title="Java">
+    <img src="https://skillicons.dev/icons?i=java" width="55" />
+  </a>
+  <br/>
+  <b>Java</b>
+
+</p>
+
+<table align="center">
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br/>
+<b>Java</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br/>
+<b>Python</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/><br/>
+<b>JavaScript</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br/>
+<b>React</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br/>
+<b>Node.js</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br/>
+<b>HTML</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br/>
+<b>CSS</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br/>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br/>
+<b>Git</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br/>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br/>
+<b>VS Code</b>
+</td>
+
+</tr>
+</table>
 
 </p>
 
