@@ -50,11 +50,6 @@ Building scalable web applications, AI-powered solutions, and software that solv
 
 <p align="center">
 
-  <a href="https://www.java.com/" title="Java">
-    <img src="https://skillicons.dev/icons?i=java" width="55" />
-  </a>
-  <br/>
-  <b>Java</b>
 
 </p>
 
