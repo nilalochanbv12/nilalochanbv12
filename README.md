@@ -70,11 +70,12 @@ Building scalable web applications, AI-powered solutions, and software that solv
 # 📈 Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nilalochanbv&theme=tokyo-night"/>
-
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nilalochanbv&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Nilalochan's%20GitHub%20Contribution%20Graph"
+    alt="Nilalochan's GitHub Activity Graph"
+    width="100%"
+  />
 </p>
-
 ---
 
 # 📈 Coding Profiles
