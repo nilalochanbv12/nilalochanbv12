@@ -45,9 +45,6 @@ Building scalable web applications, AI-powered solutions, and software that solv
 
 ---
 
-# 🛠️ Tech Stack
-
-<p align="center">
 
 # 🛠️ Tech Stack
 
